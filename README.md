@@ -78,3 +78,12 @@
 описание (можно любое)
 Пример того, как это должно выглядеть
 <img src="https://github.com/rreeggeenntt4/amocrmtest.ru/blob/main/media/what_should_work.png" alt="">
+
+---------------------------------------------------------------
+
+Ход выполнения:
+    - регистрация на сайте https://amocrm.ru
+    - по итогу получаем поддомен пример:
+            https://rreeeggeenntt4.amocrm.ru/dashboard/?sel=all&period=week
+    - переходим https://www.amocrm.ru/developers/content/integrations/intro
+            скачиваем "Скачать пример виджета"
