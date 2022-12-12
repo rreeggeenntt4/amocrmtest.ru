@@ -1,0 +1,121 @@
+.card-widgets__widget__body .ac-form {
+    padding-left: 25px;
+}
+.mgc-calc-modal {
+    margin-top: 0;
+}
+.mgc-template-modal {
+    margin-top: 0;
+}
+
+
+div[class*="card-widgets__widget-neirocrm_print_calc_"] .js-widget-caption-block {
+    background-color: #b00f0a;
+}
+div[class*="card-widgets__widget-neirocrm_print_calc_"] .card-widgets__widget__body {
+    background-color: #b00f0a;
+}
+div[class*="card-widgets__widget-neirocrm_print_calc_"] .card-widgets__widget__body .ac-form {
+    padding:  1px 7px;
+    background-color: #fff;
+
+}
+
+div[class*="card-widgets__widget-neirocrm_print_calc_"] .card-widgets__widget__body .ac_sub {
+    padding: 3px 5px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin: 7px 0;
+    text-align: center;
+}
+div[class*="card-widgets__widget-neirocrm_print_calc_"] .card-widgets__widget__body .ac_sub:hover {
+
+    border: 1px solid #7d7d7d;
+
+}
+.card-widgets__widget {
+
+    margin-bottom: 5px;
+}
+
+.calc-action__header h2 {
+    display: inline-block;
+    margin: 40px 10px 10px 20px;
+}
+.calc-action__top-controls {
+    float: right;
+}
+
+
+
+
+.submit-button {
+    background-color: #4f89f5;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    float: right;
+padding: 8px;
+margin: 10px;
+}
+
+.submit-button {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4f89f5;
+}
+
+.submit-button:hover {
+    background-color: #4f89f5;
+    color: white;
+}
+
+.color-calc {
+  background-color: #d8e9f1;
+}
+
+TABLE {
+    border-collapse: collapse;
+    width: 450px;
+   }
+   TH, TD {
+    border: 1px solid #d8e9f1;
+    text-align: left;
+    padding: 4px;
+   }
+   TH {
+    background: #fc0;
+    height: 40px; 
+    vertical-align: bottom;
+    
+   }
+   
+
+
+#result {
+  margin-top: 70px;
+}
+
+.modal-body {
+    width: 550px;
+    padding: 10px 30px 50px 30px;
+}
+
+
+
+
+
+
+
+
+
+
